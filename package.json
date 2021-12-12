@@ -1,0 +1,7 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Leandro Salles Rocha <lrocha@viceri.com.br>",
+  "license": "MIT"
+}
