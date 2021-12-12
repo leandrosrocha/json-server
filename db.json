@@ -45,7 +45,7 @@
     {
       "id": 1,
       "name": "Buxinho",
-      "imageUrl": "buxinho",
+      "imageUrl": "assets/products/buxinho",
       "offerType": "onSite",
       "price": 3.54,
       "producerName": "João da Silva LTDA"
@@ -53,7 +53,7 @@
     {
       "id": 2,
       "name": "Hera",
-      "imageUrl": "hera",
+      "imageUrl": "assets/products/hera",
       "offerType": "onSite",
       "price": 1.5,
       "producerName": "Mariana Nogueira LTDA"
@@ -61,7 +61,7 @@
     {
       "id": 3,
       "name": "KalanchoeVariado",
-      "imageUrl": "kalanchoeVariado",
+      "imageUrl": "assets/products/kalanchoeVariado",
       "offerType": "received",
       "price": 2.45,
       "producerName": "Roberto Santos LTDA"
@@ -69,7 +69,7 @@
     {
       "id": 4,
       "name": "Tulipa",
-      "imageUrl": "tulipa",
+      "imageUrl": "assets/products/tulipa",
       "offerType": "received",
       "price": 4.16,
       "producerName": "Henrique Figuero LTDA"
