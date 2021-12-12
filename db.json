@@ -40,5 +40,39 @@
       "name": "Tulipa",
       "imageUrl": "assets/products/tulipa.png"
     }
+  ],
+  "basedOnLastVisit": [
+    {
+      "id": 1,
+      "name": "Buxinho",
+      "imageUrl": "buxinho",
+      "offerType": "onSite",
+      "price": 3.54,
+      "producerName": "João da Silva LTDA"
+    },
+    {
+      "id": 2,
+      "name": "Hera",
+      "imageUrl": "hera",
+      "offerType": "onSite",
+      "price": 1.5,
+      "producerName": "Mariana Nogueira LTDA"
+    },
+    {
+      "id": 3,
+      "name": "KalanchoeVariado",
+      "imageUrl": "kalanchoeVariado",
+      "offerType": "received",
+      "price": 2.45,
+      "producerName": "Roberto Santos LTDA"
+    },
+    {
+      "id": 4,
+      "name": "Tulipa",
+      "imageUrl": "tulipa",
+      "offerType": "received",
+      "price": 4.16,
+      "producerName": "Henrique Figuero LTDA"
+    }
   ]
 }
