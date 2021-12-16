@@ -76,25 +76,38 @@
     }
   ],
   "user": {
-    "name": "User mock",
+    "name": "João da Silva Santos",
     "userId": 1,
-    "email": "user@mock.com.br",
+    "email": "floresbrasil@gmail.com.br",
     "roleId": 1,
-    "balance": 2000.1,
-    "sites": [
+    "customers": [
       {
         "id": 1,
-        "producerId": 1,
-        "account": "account 1",
-        "corporateName": "User Corporate Name 1",
-        "tradingName": "User Trading Name 1"
+        "accountCode": "483",
+        "name": "Júlia Flores",
+        "parentCode": 25,
+        "balance": 2144589.58
       },
       {
         "id": 2,
-        "producerId": 1,
-        "account": "account 2",
-        "corporateName": "User Corporate Name 2",
-        "tradingName": "User Trading Name 2"
+        "accountCode": "365",
+        "name": "Floricultura Alice",
+        "parentCode": 12,
+        "balance": 231104.58
+      },
+      {
+        "id": 3,
+        "accountCode": "456",
+        "name": "Flores Paloma",
+        "parentCode": 67,
+        "balance": 29.58
+      },
+      {
+        "id": 4,
+        "accountCode": "761",
+        "name": "Roberta Flores",
+        "parentCode": 43,
+        "balance": 0
       }
     ]
   }
