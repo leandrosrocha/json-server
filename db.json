@@ -74,5 +74,26 @@
       "price": 4.16,
       "producerName": "Henrique Figuero LTDA"
     }
-  ]
+  ],
+  "users": {
+    "name": "User mock",
+    "userId": "1",
+    "email": "user@mock.com.br",
+    "roleId": 1,
+    "balance": 2000.1,
+    "sites": [
+      {
+        "producerId": 1,
+        "account": "account 1",
+        "corporateName": "User Corporate Name 1",
+        "tradingName": "User Trading Name 1"
+      },
+      {
+        "producerId": 1,
+        "account": "account 2",
+        "corporateName": "User Corporate Name 2",
+        "tradingName": "User Trading Name 2"
+      }
+    ]
+  }
 }
