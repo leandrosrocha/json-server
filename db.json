@@ -75,9 +75,9 @@
       "producerName": "Henrique Figuero LTDA"
     }
   ],
-  "users": {
+  "user": {
     "name": "User mock",
-    "userId": "1",
+    "userId": 1,
     "email": "user@mock.com.br",
     "roleId": 1,
     "balance": 2000.1,
