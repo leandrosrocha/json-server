@@ -83,12 +83,14 @@
     "balance": 2000.1,
     "sites": [
       {
+        "id": 1,
         "producerId": 1,
         "account": "account 1",
         "corporateName": "User Corporate Name 1",
         "tradingName": "User Trading Name 1"
       },
       {
+        "id": 2,
         "producerId": 1,
         "account": "account 2",
         "corporateName": "User Corporate Name 2",
