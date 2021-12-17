@@ -110,5 +110,83 @@
         "balance": 0
       }
     ]
-  }
+  },
+  "offers": [
+    {
+      "offerId": 1,
+      "offerType": "inTransit",
+      "name": "Kalanchoe Variado P14",
+      "imageUrl": "assets/products/kalanchoeVariado.png",
+      "price": 3.7,
+      "producerName": "João da Silva",
+      "barcode": "01168.014.000.99.00",
+      "gtincode": "000.00000.0000.0",
+      "quality": "A1",
+      "colors": "Variado",
+      "packagingName": "070-PV11",
+      "dimension": "P14",
+      "multiple": 4,
+      "availableStock": 2500,
+      "layerPrice": 0.0,
+      "packagingPrice": 0.0,
+      "cartPrice": 0.0
+    },
+    {
+      "offerId": 2,
+      "offerType": "inTransit",
+      "name": "Buxinho B13",
+      "imageUrl": "assets/products/buxinho.png",
+      "price": 5.45,
+      "producerName": "João da Silva",
+      "barcode": "01168.014.000.99.00",
+      "gtincode": "000.00000.0000.0",
+      "quality": "A1",
+      "colors": "Variado",
+      "packagingName": "070-PV11",
+      "dimension": "P14",
+      "multiple": 4,
+      "availableStock": 1253,
+      "layerPrice": 0.0,
+      "packagingPrice": 0.0,
+      "cartPrice": 0.0
+    },
+    {
+      "offerId": 3,
+      "offerType": "inTransit",
+      "name": "Hera D4",
+      "imageUrl": "assets/products/hera.png",
+      "price": 5.45,
+      "producerName": "Maria Figuerero dos Santos",
+      "barcode": "01168.014.000.99.00",
+      "gtincode": "000.00000.0000.0",
+      "quality": "A1",
+      "colors": "Variado",
+      "packagingName": "070-PV11",
+      "dimension": "P14",
+      "multiple": 4,
+      "availableStock": 10,
+      "layerPrice": 0.0,
+      "packagingPrice": 0.0,
+      "cartPrice": 0.0
+    },
+    {
+      "offerId": 4,
+      "offerType": "inTransit",
+      "name": "Tulipa C6",
+      "imageUrl": "assets/products/tulipa.png",
+      "price": 5.45,
+      "producerName": "Roberto Rocha",
+      "barcode": "01168.014.000.99.00",
+      "gtincode": "000.00000.0000.0",
+      "quality": "A1",
+      "colors": "Variado",
+      "packagingName": "070-PV11",
+      "dimension": "P14",
+      "multiple": 4,
+      "availableStock": 20,
+      "layerPrice": 0.0,
+      "packagingPrice": 0.0,
+      "cartPrice": 0.0
+    }
+  ]
 }
