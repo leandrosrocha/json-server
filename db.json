@@ -272,5 +272,25 @@
       "packagingPrice": 15.0,
       "cartPrice": 5653.23
     }
-  ]
+  ],
+  "offerFilters": {
+    "categories": [
+      {
+        "code": "01",
+        "name": "Produto de Corte"
+      },
+      {
+        "code": "02",
+        "name": "Flor Envasada"
+      },
+      {
+        "code": "03",
+        "name": "Planta Ornamental"
+      },
+      {
+        "code": "04",
+        "name": "Produto Decorado"
+      }
+    ]
+  }
 }
