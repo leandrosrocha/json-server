@@ -366,6 +366,26 @@
         "code": "048",
         "name": "BRANCO C/ PINTAS"
       }
+    ],
+    "heights": [0.5, 0.8, 1.0],
+    "dimensions": ["P14", "P15", "P16", "P18", "P20"],
+    "producers": [
+      {
+        "id": 5623,
+        "name": "ARNALDO GERALDO VAN DER GEEST"
+      },
+      {
+        "id": 5624,
+        "name": "LUCIANO VAN DER HEIJDEN E OUTROS"
+      },
+      {
+        "id": 5625,
+        "name": "EDSON MASSANORI OHASHI"
+      },
+      {
+        "id": 5626,
+        "name": "MAURO RODRIGUES DE OLIVEIRA E OUTROS"
+      }
     ]
   }
 }
