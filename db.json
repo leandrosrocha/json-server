@@ -133,7 +133,7 @@
     },
     {
       "offerId": 2,
-      "offerType": "inTransit",
+      "offerType": "onSite",
       "name": "Buxinho B13",
       "imageUrl": "assets/products/buxinho.png",
       "price": 5.45,
@@ -171,7 +171,7 @@
     },
     {
       "offerId": 4,
-      "offerType": "inTransit",
+      "offerType": "received",
       "name": "Tulipa C6",
       "imageUrl": "assets/products/tulipa.png",
       "price": 5.45,
