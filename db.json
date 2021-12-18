@@ -291,6 +291,521 @@
         "code": "04",
         "name": "Produto Decorado"
       }
+    ],
+    "offerTypes": ["onSite", "received", "inTransit"],
+    "products": [
+      {
+        "id": 52734,
+        "name": "FOLH PITOSPORO"
+      },
+      {
+        "id": 52735,
+        "name": "TUIA STRICKITA"
+      },
+      {
+        "id": 52736,
+        "name": "FC FAROE"
+      },
+      {
+        "id": 52737,
+        "name": "FC FAROE"
+      },
+      {
+        "id": 52738,
+        "name": "FC FAROE"
+      },
+      {
+        "id": 52739,
+        "name": "FC VIKING"
+      },
+      {
+        "id": 52740,
+        "name": "FC VIKING"
+      },
+      {
+        "id": 52741,
+        "name": "FC VIKING"
+      },
+      {
+        "id": 52742,
+        "name": "ROSA PEACH AVALANCHE"
+      },
+      {
+        "id": 52743,
+        "name": "ROSA PEACH AVALANCHE"
+      },
+      {
+        "id": 52744,
+        "name": "TUIA STRICKITA"
+      },
+      {
+        "id": 52745,
+        "name": "CACTUS RABO DE MACACO"
+      },
+      {
+        "id": 52746,
+        "name": "FOLH PITOSPORO"
+      },
+      {
+        "id": 52747,
+        "name": "GERB DUNE"
+      },
+      {
+        "id": 52749,
+        "name": "ALST SPARTA"
+      },
+      {
+        "id": 52750,
+        "name": "ALST TROPICANA"
+      },
+      {
+        "id": 52751,
+        "name": "ALST TROPICANA"
+      },
+      {
+        "id": 52752,
+        "name": "ALST TROPICANA"
+      },
+      {
+        "id": 52753,
+        "name": "ALST ALBATROZ"
+      },
+      {
+        "id": 52754,
+        "name": "ALST ALBATROZ"
+      },
+      {
+        "id": 52755,
+        "name": "LIRIO PINK EXPRESSION"
+      },
+      {
+        "id": 52756,
+        "name": "LIRIO PINK EXPRESSION"
+      },
+      {
+        "id": 52757,
+        "name": "LIRIO PINK EXPRESSION"
+      },
+      {
+        "id": 52758,
+        "name": "LIRIO PINK EXPRESSION"
+      },
+      {
+        "id": 52759,
+        "name": "LIRIO PINK EXPRESSION"
+      },
+      {
+        "id": 52760,
+        "name": "LIRIO PINK EXPRESSION"
+      },
+      {
+        "id": 52761,
+        "name": "LIRIO PINK EXPRESSION"
+      },
+      {
+        "id": 52763,
+        "name": "LIRIO PINK EXPRESSION"
+      },
+      {
+        "id": 52765,
+        "name": "ALST MILOS"
+      },
+      {
+        "id": 52766,
+        "name": "ALST MILOS"
+      },
+      {
+        "id": 52767,
+        "name": "ORQ PHAIUS"
+      },
+      {
+        "id": 52768,
+        "name": "ORQ PHAIUS"
+      },
+      {
+        "id": 52769,
+        "name": "GERB DUNE"
+      },
+      {
+        "id": 52770,
+        "name": "GERB DUNE"
+      },
+      {
+        "id": 52771,
+        "name": "GERB YOLANDA"
+      },
+      {
+        "id": 52772,
+        "name": "GERB YOLANDA"
+      },
+      {
+        "id": 52773,
+        "name": "GERB YOLANDA"
+      },
+      {
+        "id": 52774,
+        "name": "GERB YOLANDA"
+      },
+      {
+        "id": 52775,
+        "name": "KALANCHOE PROLIFERA"
+      },
+      {
+        "id": 52776,
+        "name": "KALANCHOE PROLIFERA"
+      },
+      {
+        "id": 52777,
+        "name": "FOLH PITOSPORO"
+      },
+      {
+        "id": 52778,
+        "name": "KALANCHOE PROLIFERA"
+      },
+      {
+        "id": 52779,
+        "name": "KALANCHOE PROLIFERA"
+      },
+      {
+        "id": 52780,
+        "name": "KALANCHOE PROLIFERA"
+      },
+      {
+        "id": 52781,
+        "name": "KALANCHOE PROLIFERA"
+      },
+      {
+        "id": 52782,
+        "name": "KALANCHOE PROLIFERA"
+      },
+      {
+        "id": 52783,
+        "name": "KALANCHOE PROLIFERA"
+      },
+      {
+        "id": 52784,
+        "name": "CELOSIA LILAC"
+      },
+      {
+        "id": 52785,
+        "name": "ECHEVERIA SETOSA"
+      },
+      {
+        "id": 52786,
+        "name": "ECHEVERIA SETOSA"
+      }
+    ],
+    "qualities": [
+      {
+        "code": "A1",
+        "name": "A1"
+      },
+      {
+        "code": "A2",
+        "name": "A2"
+      },
+      {
+        "code": "AA",
+        "name": "AA"
+      },
+      {
+        "code": "AE",
+        "name": "AE"
+      },
+      {
+        "code": "B",
+        "name": "B"
+      },
+      {
+        "code": "X",
+        "name": "X"
+      }
+    ],
+    "colors": [
+      {
+        "code": "000",
+        "name": "N/A"
+      },
+      {
+        "code": "050",
+        "name": "BRANCO C/ MIOLO VINHO"
+      },
+      {
+        "code": "049",
+        "name": "BRANCO C/ MIOLO ROSA"
+      },
+      {
+        "code": "048",
+        "name": "BRANCO C/ PINTAS"
+      },
+      {
+        "code": "047",
+        "name": "BRANCO C/ BORDA LILAS"
+      },
+      {
+        "code": "046",
+        "name": "AMARELO VERDE"
+      },
+      {
+        "code": "045",
+        "name": "BRANCO AMARELO"
+      },
+      {
+        "code": "051",
+        "name": "COBRE"
+      },
+      {
+        "code": "044",
+        "name": "AMARELO ESCURO"
+      },
+      {
+        "code": "042",
+        "name": "ROSA ESCURO"
+      },
+      {
+        "code": "041",
+        "name": "BRONZE/COBRE"
+      },
+      {
+        "code": "040",
+        "name": "ROXO CLARO"
+      },
+      {
+        "code": "039",
+        "name": "ROSA CLARO"
+      },
+      {
+        "code": "038",
+        "name": "MESCLADO"
+      },
+      {
+        "code": "037",
+        "name": "PRETO"
+      },
+      {
+        "code": "043",
+        "name": "AMARELO CLARO"
+      },
+      {
+        "code": "036",
+        "name": "COR ÚNICA"
+      },
+      {
+        "code": "052",
+        "name": "LILAS CLARO"
+      },
+      {
+        "code": "054",
+        "name": "MULTICOLOR"
+      },
+      {
+        "code": "701",
+        "name": "EMBALAGEM ESPECIAL"
+      },
+      {
+        "code": "500",
+        "name": "COLOURS"
+      },
+      {
+        "code": "300",
+        "name": "MINIMO 3 CORES"
+      },
+      {
+        "code": "100",
+        "name": "MIN 100 CM"
+      },
+      {
+        "code": "070",
+        "name": "FUCHSIA"
+      },
+      {
+        "code": "063",
+        "name": "LAVANDA"
+      },
+      {
+        "code": "053",
+        "name": "LILAS ESCURO"
+      },
+      {
+        "code": "062",
+        "name": "AZUL/ROSA"
+      },
+      {
+        "code": "060",
+        "name": "PINK/AZUL"
+      },
+      {
+        "code": "059",
+        "name": "LILAS ---"
+      },
+      {
+        "code": "058",
+        "name": "DOURADO"
+      },
+      {
+        "code": "057",
+        "name": "PRATA"
+      },
+      {
+        "code": "056",
+        "name": "CINZA"
+      },
+      {
+        "code": "055",
+        "name": "AZUL/ROSA"
+      },
+      {
+        "code": "061",
+        "name": "MESCLADO ROSA"
+      },
+      {
+        "code": "801",
+        "name": "COM GLITTER"
+      },
+      {
+        "code": "035",
+        "name": "VINHO"
+      },
+      {
+        "code": "033",
+        "name": "VERMELHO/PRETO"
+      },
+      {
+        "code": "014",
+        "name": "ESPECIAL"
+      },
+      {
+        "code": "013",
+        "name": "BICOLOR"
+      },
+      {
+        "code": "012",
+        "name": "MISTO (ESPECIAL)"
+      },
+      {
+        "code": "011",
+        "name": "MARROM"
+      },
+      {
+        "code": "010",
+        "name": "PINK"
+      },
+      {
+        "code": "009",
+        "name": "VERDE"
+      },
+      {
+        "code": "015",
+        "name": "VARIADO"
+      },
+      {
+        "code": "008",
+        "name": "ROXO"
+      },
+      {
+        "code": "006",
+        "name": "SALMÃO"
+      },
+      {
+        "code": "005",
+        "name": "CHAMPAGNE"
+      },
+      {
+        "code": "004",
+        "name": "VERMELHO"
+      },
+      {
+        "code": "003",
+        "name": "LARANJA"
+      },
+      {
+        "code": "002",
+        "name": "AMARELO"
+      },
+      {
+        "code": "001",
+        "name": "BRANCO"
+      },
+      {
+        "code": "007",
+        "name": "ROSA"
+      },
+      {
+        "code": "034",
+        "name": "AMARELO/PRETO"
+      },
+      {
+        "code": "016",
+        "name": "MISTO"
+      },
+      {
+        "code": "018",
+        "name": "BRANCO/ROXO"
+      },
+      {
+        "code": "032",
+        "name": "LARANJA/PRETO"
+      },
+      {
+        "code": "031",
+        "name": "AZUL"
+      },
+      {
+        "code": "030",
+        "name": "NEVE"
+      },
+      {
+        "code": "029",
+        "name": "BRANCO/VERMELHO"
+      },
+      {
+        "code": "028",
+        "name": "PESSEGO"
+      },
+      {
+        "code": "027",
+        "name": "MARROM/VERDE"
+      },
+      {
+        "code": "017",
+        "name": "BRANCO/ROSA"
+      },
+      {
+        "code": "026",
+        "name": "VERDE/ROSA"
+      },
+      {
+        "code": "024",
+        "name": "BRANCO/VERDE"
+      },
+      {
+        "code": "023",
+        "name": "CHÁ"
+      },
+      {
+        "code": "022",
+        "name": "TERRA"
+      },
+      {
+        "code": "021",
+        "name": "VERDE/VERMELHO"
+      },
+      {
+        "code": "020",
+        "name": "LILÁS"
+      },
+      {
+        "code": "019",
+        "name": "MESCLADO ROXO"
+      },
+      {
+        "code": "025",
+        "name": "CHOCOLATE"
+      },
+      {
+        "code": "940",
+        "name": "N/A"
+      }
     ]
   }
 }
